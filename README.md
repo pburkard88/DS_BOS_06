@@ -33,21 +33,6 @@ Week | Tuesday | Thursday
 11 | 9/01: [Course Review](slides/lec20.pdf) and Project Working Session #2   | 9/03: Project Presentations
 
 
-### Homework Schedule
-
-HW | Topics | Dataset | Assigned | Due
---- | --- | --- | --- | ---
-1 | [Data Exploration](homework/hw1) | [titanic](hw1/titanic.csv) | 5/05 | **5/12**
-2 | [KNN & Cross Validation](homework/hw2) | [iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) | 5/07 | **5/19**
-PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | - | **5/21**
-PM2 | [Data Ready](project#june-2-data-ready) | project | - | **6/02**
-3 | [Decision Trees](homework/hw3) | [bank](homework/hw3) | 6/02 | **6/09**
-PM3 | [First Draft Due](project#june-16-first-draft-due-before-class) | project | - | **6/16 _(Before Class)_**
-PM4 | [Peer Feedback Due](project/peer_review_guidelines.md) | project | - | **6/23**
-PM5 | Presentation & Paper | project | - | **7/07**
-
-
-
 ### Resources
 
 #### Working in the terminal
