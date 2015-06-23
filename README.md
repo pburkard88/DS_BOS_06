@@ -15,6 +15,10 @@ Course materials for [General Assembly's Data Science course](https://generalass
 	 Office Hours: TBD
 
 
+**Homework Submission:**
+[Student Repo](http://github.com/pburkard88/DS_BOS_06_Students)
+
+
 ---
 
 
