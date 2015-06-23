@@ -12,7 +12,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 * Jon Blum ([jon@jonblum.net](mailto:jon@jonblum.net))
 
-Office Hours: TBD
+** Office Hours: TBD
 
 
 ---
