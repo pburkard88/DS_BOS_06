@@ -11,6 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 **Expert-in-Residence:** 
 
 * Jon Blum ([jon@jonblum.net](mailto:jon@jonblum.net))
+
 Office Hours: TBD
 
 
