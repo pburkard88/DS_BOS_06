@@ -5,12 +5,13 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** 
 
-* Paul Burkard
+* Paul Burkard ([pburkard88@gmail.com](mailto:pburkard88@gmail.com))
 
 
 **Expert-in-Residence:** 
 
-* Jon Blum (Office Hours: TBD)
+* Jon Blum ([jon@jonblum.net](mailto:jon@jonblum.net))
+Office Hours: TBD
 
 
 ---
@@ -20,7 +21,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Week | Tuesday | Thursday
 --- | --- | ---
- 1 | 6/23: [Intro to Data Science and Machine Learning](slides/lec01.pdf) | 6/25: [Intro to Command Line, Python, Pandas, and Web Scraping](slides/lec02.pdf) 
+ 1 | 6/23: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 6/25: [Intro to Command Line, Python, Pandas, and Web Scraping](slides/lec02.pdf) 
  2 | 6/30: [Intro to Databases](slides/lec03.pdf) | 7/02: [ETL and Data Munging](slides/lec04.pdf) <br>**Final Project Kickoff**
  3 | 7/07: [Linear Regression](slides/lec05.pdf) <br>**HW1 Due** | 7/09: [Intro to Classification - KNN](slides/lec06.pdf)
  4 | 7/14: [Probability, Naive Bayes, and Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 7/16: [Decision Trees](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
