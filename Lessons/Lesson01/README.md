@@ -1,7 +1,7 @@
 ###Lesson 1: Introduction to Data Science & Basic Data Manipulation
 
 ####Slides
-- [ Lesson 1 Slides ](https://github.com/ga-students/DS_BOS_6/blob/master/Lessons/Lesson01/lec01.pdf)
+- [ Lesson 1 Slides ](lec01.pdf)
 
 ####Handouts
 - [Unix Basics: Intro to the Command Line](https://github.com/ga-students/DS_BOS_04/wiki/Unix Command Intro)
