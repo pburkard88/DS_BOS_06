@@ -5,6 +5,7 @@
 
 ####Handouts
 - [Introduction to Python](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/Intro_to_Python.ipynb)
+- [Introduction to Pandas](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/Intro_to_Pandas.ipynb)
 
 
 ####Links
