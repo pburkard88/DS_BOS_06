@@ -4,7 +4,7 @@
 - [ Lesson 3 Slides ](lec03.pdf)
 
 ####Handouts
-- [Introduction to Python](https://github.com/ga-students/DS_BOS_06/wiki/Introduction-to-Python)
+- [Introduction to Python](https://github.com/ga-students/DS_BOS_06/Notebooks/Intro_to_Python.ipynb)
 
 
 ####Links
