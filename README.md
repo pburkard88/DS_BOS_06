@@ -27,7 +27,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 Week | Tuesday | Thursday
 --- | --- | ---
  1 | 6/23: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 6/25:  [Intro to Databases](Lessons/Lesson02)
- 2 | 6/30: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 7/02: [Command Line, Web Scraping, ETL and Data Munging](slides/lec04.pdf) <br>**Final Project Kickoff**
+ 2 | 6/30: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 7/02: [Web Scraping and Command Line](Lessons/Lesson04) <br>**Final Project Kickoff**
  3 | 7/07: [Linear Regression](slides/lec05.pdf) <br>**HW1 Due** | 7/09: [Intro to Classification - KNN](slides/lec06.pdf)
  4 | 7/14: [Probability, Naive Bayes, and Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 7/16: [Decision Trees](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
  5 | 7/21: [Support Vector Machines](slides/lec09.pdf)  | 7/23: [Neural Networks](slides/lec10.pdf) 
