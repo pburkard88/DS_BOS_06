@@ -3,8 +3,11 @@
 ####Slides
 - [ Lesson 4 Slides ](lec04.pdf)
 
-####Assignment
-- [Assignment 2]()
+####Assignments
+- Assignment 2 is to finish up the Web Scraping exercises in the Notebook linked below under handouts.
+- **Due Date:** 07/09
+- Please submit your code (just submit the iPython notebook) and your results as a .csv file on the Students repo via pull request
+- [Assignment 2](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/04_Intro_to_Web_Scraping.ipynb)
 
 ####Handouts
 - [Introduction to Web Scraping](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/04_Intro_to_Web_Scraping.ipynb)
