@@ -29,12 +29,12 @@ Week | Tuesday | Thursday
  1 | 6/23: [Intro to Data Science and Machine Learning](Lessons/Lesson01) | 6/25:  [Intro to Databases](Lessons/Lesson02)
  2 | 6/30: [NoSQL, Python, and Pandas](Lessons/Lesson03) | 7/02: [Web Scraping and Command Line](Lessons/Lesson04) <br>**Final Project Kickoff**
  3 | 7/07: [Linear Regression and Model Evaluation](Lessons/Lesson05) <br>**HW1 Due** | 7/09: [Intro to Classification - KNN](Lessons/Lesson06) <br>**HW2 Due**
- 4 | 7/14: [Probability, Naive Bayes, and Logistic Regression](Lessons/Lesson07) | 7/16: [Decision Trees](Lessons/Lesson08) <br>**Project Milestone (PM1):** [Elevator Pitch](Project#july-16-final-project-elevator-pitch)
- 5 | 7/21: [Support Vector Machines](Lessons/Lesson09)  | 7/23: [Neural Networks](Lessons/Lesson10) 
- 6 | 7/28: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#july-28-data-ready) | 7/30: [Dimensionality Reduction](Lessons/Lesson12)
- 7 | 8/04: [Natural Language Processing and Latent Semantic Indexing](Lessons/Lesson13) <br>**HW3 Due**  | 8/06: [Ensemble Methods](Lessons/Lesson14)
- 8 | 8/11: [Recommendation Systems](Lessons/Lesson15) <br>**Project Milestone (PM3):** [First Draft Due](project#august-11-first-draft-due-before-class)  | 8/13: [Network Analysis](Lessons/Lesson16)
- 9 | 8/18: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md)  | 8/20: Project Working Session #1
+ 4 | 7/16: [Probability and Naive Bayes](Lessons/Lesson07) | 7/21: [Logistic Regression](Lessons/Lesson08) <br>**Project Milestone (PM1):** [Elevator Pitch](Project#july-16-final-project-elevator-pitch)
+ 5 | 7/23: [Decision Trees](Lessons/Lesson09)  | 7/28: [Support Vector Machines](Lessons/Lesson10) 
+ 6 | 7/30: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#july-28-data-ready) | 8/04: [Dimensionality Reduction](Lessons/Lesson12)
+ 7 | 8/06: [Natural Language Processing and Latent Semantic Indexing](Lessons/Lesson13) | 8/11: [Ensemble Methods](Lessons/Lesson14)
+ 8 | 8/13: [Recommendation Systems](Lessons/Lesson15) <br>**Project Milestone (PM3):** [First Draft Due](project#august-11-first-draft-due-before-class)  | 8/18: [Network Analysis](Lessons/Lesson16)
+ 9 | 8/20: Project Working Session #1 <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md) <br>**HW3 Due** | 8/21: [Time Series Analysis](Lessons/Lesson17)
 10 | 8/25: [Hadoop + Big Data 1](Lessons/Lesson18)  | 8/27: [Hadoop + Big Data 2](Lessons/Lesson19)
 11 | 9/01: [Course Review](Lessons/Lesson21) and Project Working Session #2   | 9/03: Project Presentations
 
