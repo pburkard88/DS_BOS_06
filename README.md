@@ -34,7 +34,7 @@ Week | Tuesday | Thursday
  6 | 7/30: [Clustering](Lessons/Lesson11) <br>**Project Milestone (PM2):** [Data Ready](Project#july-28-data-ready) | 8/04: [Dimensionality Reduction](Lessons/Lesson12)
  7 | 8/06: [Natural Language Processing and Latent Semantic Indexing](Lessons/Lesson13) | 8/11: [Recommender Systems](Lessons/Lesson14)
  8 | 8/13: [Ensemble Methods](Lessons/Lesson15) <br>**Project Milestone (PM3):** [First Draft Due](project#august-11-first-draft-due-before-class)  | 8/18: Project Working Session #1
- 9 | 8/20: [Network Analysis](Lessons/Lesson16) <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md) <br>**HW3 Due** | 8/21: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md) <br>**HW3 Due**
+ 9 | 8/20: [Network Analysis](Lessons/Lesson16) | 8/21: [Time Series Analysis](Lessons/Lesson17) <br>**Project Milestone (PM4):** [Peer Feedback Due](Project/peer_review_guidelines.md) <br>**HW3 Due**
 10 | 8/25: [Hadoop + Big Data 1](Lessons/Lesson18)  | 8/27: [Hadoop + Big Data 2](Lessons/Lesson19)
 11 | 9/01: [Course Review](Lessons/Lesson21) and Project Working Session #2   | 9/03: Project Presentations
 
