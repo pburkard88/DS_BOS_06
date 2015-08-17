@@ -4,7 +4,7 @@
 - [ Lesson 16 Slides ](lec16.pdf)
 
 ####Handouts
-- [RecSys](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/16_Networks.ipynb)
+- [Network Analysis](https://github.com/pburkard88/DS_BOS_06/blob/master/Notebooks/16_Networks.ipynb)
 
 ####References  
  * [Graphs and their Representation](http://www.stoimen.com/blog/2012/08/31/computer-algorithms-graphs-and-their-representation/)  
